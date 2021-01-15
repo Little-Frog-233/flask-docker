@@ -1,7 +1,7 @@
 flask
 flask_script
 flask_migrate
-flask_sqlalchemy
+flask_sqlalchemy==2.4.1
 flask_restful
 flask_limiter
 flask_cache
@@ -10,13 +10,13 @@ flask_wtf
 werkzeug==0.15.2
 Pillow==5.1.0
 pyDes
-pymysql
+pymysql==0.8.1
 pypinyin
 gunicorn
 gevent
 requests
 redis
 celery
-numpy
-pandas
-xlrd
+numpy==1.17.0
+pandas==1.0.1
+xlrd==1.2.0
