@@ -20,4 +20,6 @@ celery
 numpy==1.17.0
 pandas==1.0.1
 xlrd==1.2.0
-sshtunnel==0.1.5 
+sshtunnel==0.1.5
+grpcio==1.35.0
+grpcio-tools==1.35.0
